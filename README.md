@@ -156,7 +156,3 @@ project/
 - Object detection based localization
 
 ---
-
-## Author
-
-Balaji
